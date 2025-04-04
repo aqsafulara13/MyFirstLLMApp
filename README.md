@@ -1,4 +1,8 @@
- ---
+ChatGPT wrapper and First LLM App, deployed on Hugging Face Space 
+
+Try at https://huggingface.co/spaces/afulara/myfirstllm-app
+
+---
 title: BeyondChatGPT Demo
 emoji: 📉
 colorFrom: pink
@@ -10,4 +14,4 @@ app_port: 7860
 app_file: app.py
 ---
 # MyFirstLLMApp
-ChatGPT wrapper and First LLM App, deployed on Hugging Face Space
+ChatGPT wrapper and First LLM App, deployed on Hugging Face Space 

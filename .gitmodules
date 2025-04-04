@@ -1,0 +1,3 @@
+[submodule "Beyond-ChatGPT"]
+	path = Beyond-ChatGPT
+	url = https://huggingface.co/spaces/afulara/myfirstllm-app
